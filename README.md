@@ -1,9 +1,5 @@
 ## Meditation App for iPhone 🎵
 
-<p align="center">
-  <img src="placeholder-logo.png" alt="SereneScapes App Icon/Logo" width="200"/>
-</p>
-
 This Meditation App was made with Swift programming language in Xcode for a Bootcamp project.
 This is one of my 1st attempts at creating an iOS app.
 
